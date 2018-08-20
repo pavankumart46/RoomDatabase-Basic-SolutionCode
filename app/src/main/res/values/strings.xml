@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Room Database -Basic</string>
+    <string name="button_name">Save Data</string>
+    <string name="view_btn">View Data</string>
+</resources>
